@@ -3,7 +3,7 @@
 A simple clone of YouTube’s homepage built using only HTML and CSS.
 
 ### 🔗 Live Demo:
-[Click here to view]([https://peaceeful.github.io/youtube-clone-html-css/](https://piyushhyadav.github.io/youtube-clone-html-css/))
+[Click here to view]((https://piyushhyadav.github.io/youtube-clone-html-css/))
 
 ### 📸 Preview:
 
